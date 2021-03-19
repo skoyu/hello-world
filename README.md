@@ -1,2 +1,2 @@
 # hello-world
-This is a tutorial to create a new repository.
+This is the first repository file I have created. Thanks for reading.
